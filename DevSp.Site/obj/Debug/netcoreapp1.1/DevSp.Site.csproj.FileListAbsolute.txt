@@ -1,0 +1,9 @@
+C:\Projetos\DevSp\DevSp.Site\bin\Debug\netcoreapp1.1\DevSp.Site.deps.json
+C:\Projetos\DevSp\DevSp.Site\bin\Debug\netcoreapp1.1\DevSp.Site.runtimeconfig.json
+C:\Projetos\DevSp\DevSp.Site\bin\Debug\netcoreapp1.1\DevSp.Site.runtimeconfig.dev.json
+C:\Projetos\DevSp\DevSp.Site\bin\Debug\netcoreapp1.1\DevSp.Site.dll
+C:\Projetos\DevSp\DevSp.Site\bin\Debug\netcoreapp1.1\DevSp.Site.pdb
+C:\Projetos\DevSp\DevSp.Site\obj\Debug\netcoreapp1.1\DevSp.Site.csprojResolveAssemblyReference.cache
+C:\Projetos\DevSp\DevSp.Site\obj\Debug\netcoreapp1.1\DevSp.Site.AssemblyInfo.cs
+C:\Projetos\DevSp\DevSp.Site\obj\Debug\netcoreapp1.1\DevSp.Site.dll
+C:\Projetos\DevSp\DevSp.Site\obj\Debug\netcoreapp1.1\DevSp.Site.pdb

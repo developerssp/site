@@ -1,0 +1,9 @@
+C:\Projetos\DevSp\DevSp.Data\bin\Debug\netcoreapp1.1\DevSp.Data.deps.json
+C:\Projetos\DevSp\DevSp.Data\bin\Debug\netcoreapp1.1\DevSp.Data.dll
+C:\Projetos\DevSp\DevSp.Data\bin\Debug\netcoreapp1.1\DevSp.Data.pdb
+C:\Projetos\DevSp\DevSp.Data\obj\Debug\netcoreapp1.1\DevSp.Data.csprojResolveAssemblyReference.cache
+C:\Projetos\DevSp\DevSp.Data\obj\Debug\netcoreapp1.1\DevSp.Data.AssemblyInfo.cs
+C:\Projetos\DevSp\DevSp.Data\obj\Debug\netcoreapp1.1\DevSp.Data.dll
+C:\Projetos\DevSp\DevSp.Data\obj\Debug\netcoreapp1.1\DevSp.Data.pdb
+C:\Projetos\DevSp\DevSp.Data\bin\Debug\netcoreapp1.1\DevSp.Domain.dll
+C:\Projetos\DevSp\DevSp.Data\bin\Debug\netcoreapp1.1\DevSp.Domain.pdb
