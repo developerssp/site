@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DevSp.Domain.Interfaces
+namespace DevSp.Domain.Interface
 {
     public interface IRepositoryBase<T> : IDisposable
     {

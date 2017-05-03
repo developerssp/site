@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace DevSp.Data.Configurations
+namespace DevSp.Data.Configuration
 {
     public abstract class EntityTypeConfiguration<TEntity>
        where TEntity : class

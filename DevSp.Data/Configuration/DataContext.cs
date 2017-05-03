@@ -2,7 +2,7 @@
 using DevSp.Domain.Model;
 using Microsoft.EntityFrameworkCore;
 
-namespace DevSp.Data.Configurations
+namespace DevSp.Data.Configuration
 {
     public class DataContext : DbContext
     {
@@ -14,7 +14,7 @@ namespace DevSp.Data.Configurations
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ForSqlServerUseIdentityColumns(); // para incrementar as chaves primarias
-            modelBuilder.HasDefaultSchema("DevSpCore");
+           // modelBuilder.HasDefaultSchema("DevSpCore");            
 
             modelBuilder.AddConfiguration(new AuthorMap());
 
