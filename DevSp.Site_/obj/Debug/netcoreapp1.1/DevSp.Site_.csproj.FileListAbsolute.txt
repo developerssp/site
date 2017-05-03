@@ -1,0 +1,13 @@
+C:\Projetos\DevSp\DevSp.Site_\bin\Debug\netcoreapp1.1\DevSp.Site_.deps.json
+C:\Projetos\DevSp\DevSp.Site_\bin\Debug\netcoreapp1.1\DevSp.Site_.runtimeconfig.json
+C:\Projetos\DevSp\DevSp.Site_\bin\Debug\netcoreapp1.1\DevSp.Site_.runtimeconfig.dev.json
+C:\Projetos\DevSp\DevSp.Site_\bin\Debug\netcoreapp1.1\DevSp.Site_.dll
+C:\Projetos\DevSp\DevSp.Site_\bin\Debug\netcoreapp1.1\DevSp.Site_.pdb
+C:\Projetos\DevSp\DevSp.Site_\bin\Debug\netcoreapp1.1\DevSp.Data.dll
+C:\Projetos\DevSp\DevSp.Site_\bin\Debug\netcoreapp1.1\DevSp.Domain.dll
+C:\Projetos\DevSp\DevSp.Site_\bin\Debug\netcoreapp1.1\DevSp.Data.pdb
+C:\Projetos\DevSp\DevSp.Site_\bin\Debug\netcoreapp1.1\DevSp.Domain.pdb
+C:\Projetos\DevSp\DevSp.Site_\obj\Debug\netcoreapp1.1\DevSp.Site_.csprojResolveAssemblyReference.cache
+C:\Projetos\DevSp\DevSp.Site_\obj\Debug\netcoreapp1.1\DevSp.Site_.AssemblyInfo.cs
+C:\Projetos\DevSp\DevSp.Site_\obj\Debug\netcoreapp1.1\DevSp.Site_.dll
+C:\Projetos\DevSp\DevSp.Site_\obj\Debug\netcoreapp1.1\DevSp.Site_.pdb
